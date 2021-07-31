@@ -1,0 +1,14 @@
+{
+  "page": {
+    "name": "{name} 页面"
+  },
+  "person": {
+    "johnny": "张二狗"
+  },
+  "action": {
+    "say": "说"
+  },
+  "msg": {
+    "hello_world": "你好 世界"
+  }
+}

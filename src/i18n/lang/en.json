@@ -1,0 +1,14 @@
+{
+  "page": {
+    "name": "{name} page"
+  },
+  "person": {
+    "johnny": "Johnny"
+  },
+  "action": {
+    "say": "say"
+  },
+  "msg": {
+    "hello_world": "hello world"
+  }
+}
