@@ -1,5 +1,8 @@
 # vue-i18n-easy-demo
 
+这个分支引入了 `element-ui` <br/>
+并整合了 `vue-i18n` 和 `element-ui` 的国际国际化配置
+
 ## Project setup
 ```
 yarn install
