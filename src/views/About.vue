@@ -1,10 +1,11 @@
 <template>
-  <div class="about">
-    <h1>{{ $t("page.name", { name: "about" }) }}</h1>
-    <div>
+  <div>
+    <el-divider />
+    <h3>{{ $t("page.name", { name: "about" }) }}</h3>
+    <p>
       {{ $t("person.johnny") }}
       {{ $t("action.say") }}:
       {{ $t("msg.hello_world") }}
-    </div>
+    </p>
   </div>
 </template>
